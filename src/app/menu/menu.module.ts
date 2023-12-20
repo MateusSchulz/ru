@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core'
 import { CommonModule } from '@angular/common'
-import { MenuComponent } from './menu.component'
+import { MenuComponent } from './containers/menu/menu.component'
 
 @NgModule({
   declarations: [MenuComponent],
